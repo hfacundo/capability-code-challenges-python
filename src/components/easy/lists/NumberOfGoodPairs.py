@@ -1,6 +1,6 @@
 # Number of Good Pairs
 #
-# Given an array of integers nums, return the number of good pairs.
+# Given a list of integers nums, return the number of good pairs.
 #
 # A pair (i, j) is called good if nums[i] == nums[j] and i < j.
 #
@@ -12,7 +12,7 @@
 # Example 2:
 #     Input: nums = [1,1,1,1]
 #     Output: 6
-#     Explanation: Each pair in the array are good.
+#     Explanation: Each pair in the list are good.
 #
 # Example 3:
 #     Input: nums = [1,2,3]

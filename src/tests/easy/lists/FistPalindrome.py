@@ -1,5 +1,5 @@
 import unittest
-from src.components.easy.arrays.FirstPalindrome import find_first_palindrome
+from src.components.easy.lists.FirstPalindrome import find_first_palindrome
 
 
 class FindFirstPalindromeTest(unittest.TestCase):

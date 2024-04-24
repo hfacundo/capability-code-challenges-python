@@ -1,5 +1,5 @@
 import unittest
-from src.components.easy.arrays.FindWordsContaningCharacter import find_words_containing
+from src.components.easy.lists.FindWordsContaningCharacter import find_words_containing
 
 
 class FindWordsContainingCharacterTest(unittest.TestCase):

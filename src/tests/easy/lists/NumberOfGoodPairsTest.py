@@ -1,5 +1,5 @@
 import unittest
-from src.components.easy.arrays.NumberOfGoodPairs import num_identical_pairs
+from src.components.easy.lists.NumberOfGoodPairs import num_identical_pairs
 
 
 class NumberOfGoodPairsTest(unittest.TestCase):

@@ -19,7 +19,7 @@
 # Example 3:
 #     Input: words = ["abc","bcd","aaaa","cbc"], x = "z"
 #     Output: []
-#     Explanation: "z" does not occur in any of the words. Hence, we return an empty array.
+#     Explanation: "z" does not occur in any of the words. Hence, we return an empty list.
 
 # Constraints:
 

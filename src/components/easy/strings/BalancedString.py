@@ -33,8 +33,6 @@ def balanced_string_split(word: str):
 
     # Your code goes here
 
-    # PENDING TO TEST THIS ONE !!!
-
     return balanced_count
 
 
